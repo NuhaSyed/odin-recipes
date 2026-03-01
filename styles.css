@@ -1,0 +1,49 @@
+body {
+    font-family: Arial sans-serif;
+    font-size: 25px;
+    background-color: rgb(185, 185, 185);
+    color: black;
+    width: max-width;
+
+}
+
+h1, h2, h3{
+    text-align: center;
+    text-decoration: underline;
+}
+
+h1 {
+
+    font-size: 40px;
+    color: rgb(146, 71, 216);
+}
+
+h2{
+    color: rgb(122, 30, 209);
+    font-size: 35px;
+}
+h3 {
+    color: rgb(101, 10, 204);
+    font-size: 30px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: white;
+    font-size: 30px;
+    text-align: center;
+    margin: 60px auto;
+    display:block;
+    cursor: pointer;
+}
+li {
+    margin: 10px;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+img {
+    margin: 0 auto;
+    display:block;
+}
